@@ -2,7 +2,7 @@
 
 | Bintray | Appveyor | Travis |
 |---------|----------|--------|
-| TODO    | TODO     | TODO   |
+| [ ![Download](https://api.bintray.com/packages/pleroux0/pleroux0/operators%3Apleroux0/images/download.svg) ](https://bintray.com/pleroux0/pleroux0/operators%3Apleroux0/_latestVersion) | [![Build status](https://ci.appveyor.com/api/projects/status/76i2j9vc9ltij0st/branch/master?svg=true)](https://ci.appveyor.com/project/pleroux0/conan-operators/branch/master) |[![Build Status](https://travis-ci.org/pleroux0/conan-operators.svg?branch=master)](https://travis-ci.org/pleroux0/conan-operators)|
 
 ## Conan.io Information
 
