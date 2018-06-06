@@ -5,7 +5,7 @@ class OperatorsConan(ConanFile):
     name = "operators"
     version = "1.0.1"
     description = "C++11 header-only library that provides highly efficient, move aware operators for arithmetic data types."
-    url = "https://github.com/pleroux0/conan-operators"
+    url = "https://github.com/bincrafters/conan-operators"
     homepage = "https://github.com/taocpp/operators"
     license = "MIT"
     author = "Paul le Roux <pleroux0@outlook.com>"

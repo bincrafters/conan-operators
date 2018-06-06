@@ -2,7 +2,7 @@
 
 | Bintray | Appveyor | Travis |
 |---------|----------|--------|
-| [ ![Download](https://api.bintray.com/packages/pleroux0/pleroux0/operators%3Apleroux0/images/download.svg) ](https://bintray.com/pleroux0/pleroux0/operators%3Apleroux0/_latestVersion) | [![Build status](https://ci.appveyor.com/api/projects/status/76i2j9vc9ltij0st/branch/master?svg=true)](https://ci.appveyor.com/project/pleroux0/conan-operators/branch/master) |[![Build Status](https://travis-ci.org/pleroux0/conan-operators.svg?branch=master)](https://travis-ci.org/pleroux0/conan-operators)|
+| [ ![Download](https://api.bintray.com/packages/bincrafters/bincrafters/operators%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/bincrafters/operators%3Abincrafters/_latestVersion) | [![Build status](https://ci.appveyor.com/api/projects/status/76i2j9vc9ltij0st/branch/master?svg=true)](https://ci.appveyor.com/project/bincrafters/conan-operators/branch/master) |[![Build Status](https://travis-ci.org/bincrafters/conan-operators.svg?branch=master)](https://travis-ci.org/bincrafters/conan-operators)|
 
 ## Conan.io Information
 
@@ -44,4 +44,3 @@ The contents of this GIT repository are completely separate from the software be
 ### License for Bincrafters recipe:
 
   TODO
-
