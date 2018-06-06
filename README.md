@@ -2,7 +2,7 @@
 
 | Bintray | Appveyor | Travis |
 |---------|----------|--------|
-| [ ![Download](https://api.bintray.com/packages/bincrafters/bincrafters/operators%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/bincrafters/operators%3Abincrafters/_latestVersion) | [![Build status](https://ci.appveyor.com/api/projects/status/76i2j9vc9ltij0st/branch/master?svg=true)](https://ci.appveyor.com/project/bincrafters/conan-operators/branch/master) |[![Build Status](https://travis-ci.org/bincrafters/conan-operators.svg?branch=master)](https://travis-ci.org/bincrafters/conan-operators)|
+| [ ![Download](https://api.bintray.com/packages/bincrafters/public-conan/operators%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/operators%3Abincrafters/_latestVersion) | [![Build status](https://ci.appveyor.com/api/projects/status/76i2j9vc9ltij0st/branch/master?svg=true)](https://ci.appveyor.com/project/bincrafters/conan-operators/branch/master) |[![Build Status](https://travis-ci.org/bincrafters/conan-operators.svg?branch=master)](https://travis-ci.org/bincrafters/conan-operators)|
 
 ## Conan.io Information
 
