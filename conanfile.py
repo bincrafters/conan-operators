@@ -3,7 +3,7 @@ import os
 
 class OperatorsConan(ConanFile):
     name = "operators"
-    version = "1.0.1"
+    version = "1.1.1"
     description = "C++11 header-only library that provides highly efficient, move aware operators for arithmetic data types."
     url = "https://github.com/bincrafters/conan-operators"
     homepage = "https://github.com/taocpp/operators"
